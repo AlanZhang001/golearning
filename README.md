@@ -6,8 +6,8 @@
 brew install go
 # go的版本切换工具，类似nvm
 bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
-gvm install go1.8.3
-gvm use go1.8.3
+gvm install go1.15.5
+gvm use go1.15.5
 ```
 
 ## 学习资料
